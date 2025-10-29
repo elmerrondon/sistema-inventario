@@ -1,0 +1,5 @@
+Claves sistema: 
+admin@gmail.com
+clave: 12345
+usuario@gmail.com
+clave: 12345
