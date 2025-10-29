@@ -77,14 +77,15 @@ Para probar las funcionalidades con diferentes niveles de acceso:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [URL_DEL_REPOSITORIO]
-    cd [sistema-inventario]
+    git clone https://github.com/elmerrondon/sistema-inventario.git
+    cd sistema-inventario
     ```
 2.  **Configuración del proyecto:**
     ```bash
     cd sistema-inventario 
     npm install
-    # Asegúrate crear la base de datos y ejecutar MySQL 
+    # Asegúrate crear la base de datos y ejecutar MySQL
+    # Codigo para crear la base deatos en la carpeta config archivo db.sql 
     # Inicia el servidor:
     node app.js
     ```
