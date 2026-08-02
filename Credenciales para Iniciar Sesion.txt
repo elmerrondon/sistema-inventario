@@ -1,0 +1,7 @@
+Claves Sistema Inventario:
+--Usuario Admin 
+Email: admin@gmail.com
+clave: 12345
+--Usuario Empleado
+Email: usuario@gmail.com
+clave: 12345
