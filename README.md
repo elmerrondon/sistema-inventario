@@ -53,8 +53,8 @@ Para probar las funcionalidades con diferentes niveles de acceso en el demo en v
 
 | Rol                       | Correo Electrónico | Contraseña | Vistas Accesibles                                         |
 | :------------------------ | :----------------- | :--------- | :-------------------------------------------------------- |
-| **Administrador (Admin)** | `admin@gmail.com`  | `12345`    | Todas (CRUD completo, Proveedores y Gestión de Usuarios). |
-| **Empleado (Usuario)**    | `user@gmail.com`   | `12345`    | Limitadas (solo Home y Productos).                        |
+| **Administrador (Admin)** | `admin@admin.com`  | `12345`    | Todas (CRUD completo, Proveedores y Gestión de Usuarios). |
+| **Empleado (Usuario)**    | `user@user.com`    | `12345`    | Limitadas (solo Home y Productos).                        |
 
 ---
 

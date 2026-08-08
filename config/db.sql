@@ -62,7 +62,7 @@ INSERT INTO productos(producto_nombre,producto_precio,producto_stock,proveedor_i
 SELECT * FROM productos;
 
 INSERT INTO usuarios(usuario_nombre,usuario_apellido,usuario_telefono,usuario_email,usuario_password,tipo_usuario_id) VALUES 
-  ('Jose','Garcia','1234567890','admin@gmail.com','12345',1),
-  ('Adrian','Guerrero','1324567890','user@gmail.com','12345',2);
+  ('Jose','Garcia','1234567890','admin@admin.com','12345',1),
+  ('Adrian','Guerrero','1324567890','user@user.com','12345',2);
 
 SELECT * FROM usuarios;
